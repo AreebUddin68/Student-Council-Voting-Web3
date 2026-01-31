@@ -1,0 +1,9 @@
+{
+  "network": "sepolia",
+  "votingFactory": "0x89Fe99B66950b2310Bb203E99F16EDC0210D237F",
+  "treasury": "0x2DA0BB553864947D73f6440579Ba2a0FA536e651",
+  "creationFee": "0.01",
+  "deployer": "0x2DA0BB553864947D73f6440579Ba2a0FA536e651",
+  "chainId": "11155111",
+  "timestamp": "2026-01-31T04:48:05.208Z"
+}
