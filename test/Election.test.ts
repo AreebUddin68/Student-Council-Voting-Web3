@@ -1,6 +1,6 @@
 import { expect } from "chai";
 import { network } from "hardhat";
-import { Election } from "../types/ethers-contracts/index.js";
+import type { Election } from "../types/ethers-contracts/index.ts";
 
 const { ethers } = await network.connect();
 
